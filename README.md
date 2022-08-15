@@ -27,7 +27,7 @@ The steps are:
 
 When you're done with your changes, your source files will look like this:
 
-### `conversation-thread-component.component.ts`:
+### `conversation-thread-component.component.ts`
 
 ```typescript
 import { Component, OnInit } from "@angular/core";
@@ -67,7 +67,7 @@ export class ConversationThreadComponentComponent implements OnInit {
 }
 ```
 
-### `conversation-thread-component.component.html`:
+### `conversation-thread-component.component.html`
 
 ```html
 <div class="container">
@@ -92,7 +92,7 @@ export class ConversationThreadComponentComponent implements OnInit {
 </div>
 ```
 
-### `user-message-component.component.ts`:
+### `user-message-component.component.ts`
 
 ```typescript
 import { Component, Input, OnInit } from "@angular/core";
@@ -116,7 +116,7 @@ export class UserMessageComponentComponent implements OnInit {
 }
 ```
 
-### `user-message-component.component.html`:
+### `user-message-component.component.html`
 
 ```html
 <div class="container">
